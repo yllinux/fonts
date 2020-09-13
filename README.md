@@ -15,7 +15,7 @@ wget -qO- https://github.com/yllinux/vim/blob/master/install.sh | sudo sh
 ## 安装
 + 下载这个字体.
 ```
-git clone https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12
+git clone https://github.com/yllinux/fonts
 ```
 + 在/usr/share/fonts/truetype/, 下建立一个新的目录 YaHei\ Consolas\ Hybrid
 ```
